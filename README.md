@@ -1,9 +1,9 @@
 # high-pass
 <h2>Cсылка на сайт:</h2> https://jaroslava87.github.io/high-pass-pages/
 
-<h3>Верстка макета из Figma 1920 - 320 px</h3> 
+<ul>Верстка макета из Figma 1920 - 320 px</ul> 
 
-	&#10004; HTML5, CSS3, Java Script
+	&#10004 <li> HTML5, CSS3, Java Script</li>
 
 	&#10004; Адаптивная и "резиновая" верстка десктопной, планшетной и мобильной версии
 
