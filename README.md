@@ -19,6 +19,6 @@
 (Responsive layout layout 1920 - 320 px. Layout built on GRID, HTML5, CSS3, Java Script, 
 BEM methodology, Image and Font Optimization) 
 
-<img src="https://github.com/jaroslava87/high-pass/blob/main/img/high-pass-preview.jpg" width="300px">
+<img src="https://github.com/jaroslava87/previews/blob/main/high-pass-preview.jpg" width="300px">
 
 
